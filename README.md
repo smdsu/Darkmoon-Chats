@@ -1,13 +1,13 @@
 # Darkmoon Chats
  
- Хочется выразить отедельную благодарность людям, которые помогли с созданием данной коллекции.
- А именно: darthany light1994 vensan ahzek_ahriman
- Без этих людей наверняка мы бы не смогли собрать такую большую коллекцию, которая сможет стать показателем того как именно так называемая команда проекта относится к своим игрокам.
+ Хочется выразить отедельную благодарность людям, которые помогли с созданием данной коллекции.__
+ А именно: darthany light1994 vensan ahzek_ahriman__
+ Без этих людей наверняка мы бы не смогли собрать такую большую коллекцию, которая сможет стать показателем того как именно так называемая команда проекта относится к своим игрокам.__
  
 # Некоторые рекомендации:
- Для просмотра файлов лучше всего использовать браузер Google Chrome
- Для просмотра больших файлов, запакованных в .zip архивы, рекомендуется сперва произвести форматирование интересующей вас информации или промежутка времени через Notepad++, VS Code, etc.
- Если же файлы все равно загружаются крайне медленно рекомендуется заменить первые 8 строчек в html файле на:
+ Для просмотра файлов лучше всего использовать браузер Google Chrome__
+ Для просмотра больших файлов, запакованных в .zip архивы, рекомендуется сперва произвести форматирование интересующей вас информации или промежутка времени через Notepad++, VS Code, etc.__
+ Если же файлы все равно загружаются крайне медленно рекомендуется заменить первые 8 строчек в html файле на:__
 
  ```
  <!DOCTYPE html><html lang=en><head><title>Darkmoon - модераторы-основной</title><meta charset=utf-8><meta name=viewport content="width=device-width"><style>.chatlog__emoji{width:1.325rem;height:1.325rem;margin:0 0.06rem;vertical-align:-0.4rem}.chatlog__emoji--small{width:1rem;height:1rem}.chatlog__emoji--large{width:2.8rem;height:2.8rem}</style><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/solarized-dark.min.css><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js></script><script>document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('.chatlog__markdown-pre--multiline').forEach(e=>hljs.highlightBlock(e));});</script><script src=https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.8.1/lottie.min.js></script><script>document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('.chatlog__sticker--media[data-source]').forEach(e=>{const anim=lottie.loadAnimation({container:e,renderer:'svg',loop:true,autoplay:true,path:e.getAttribute('data-source')});anim.addEventListener('data_failed',()=>e.innerHTML='<strong>[Sticker cannot be rendered]</strong>');});});</script><script>function scrollToMessage(event,id){const element=document.getElementById('chatlog__message-container-'+id);if(!element)
@@ -21,3 +21,4 @@ if(element.classList.contains('chatlog__markdown-spoiler--hidden')){event.preven
 
 ```
 
+# УДАЧНОГО ПРОСМОТРА!
