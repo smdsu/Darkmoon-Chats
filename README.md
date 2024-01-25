@@ -20,5 +20,21 @@ if(element.classList.contains('chatlog__markdown-spoiler--hidden')){event.preven
 <div class=chatlog__message-group><div id=chatlog__message-container-476368946023628800 class="chatlog__message-container chatlog__message-container--pinned" data-message-id=476368946023628800><div class=chatlog__message><div class=chatlog__message-aside><  src="https://cdn.discordapp.com/avatars/222863465491070976/c62ba80d4d0fa6eef5458700cc82b799.png?size=512" alt=Avatar loading=lazy></div><div class=chatlog__message-primary><div class=chatlog__header><span class=chatlog__author style=color:rgb(178,68,211) title=ogrogeddon data-user-id=222863465491070976>Ogrogeddon</span> <span class=chatlog__timestamp title="Tuesday, 7 August 2018 15:40"><a href=#chatlog__message-container-476368946023628800>07/08/2018 15:40</a></span></div><div class="chatlog__content chatlog__markdown"><span class=chatlog__markdown-preserve><span class="chatlog__markdown-mention" style="color: rgb(250, 154, 125); background-color: rgba(250, 154, 125, 0.1);">@Глава поддержки</span>  <span class="chatlog__markdown-mention" style="color: rgb(27, 255, 0); background-color: rgba(27, 255, 0, 0.1);">@Модератор</span> 
 
 ```
+# Содержание:
+Чаты ведущих: записи и основной <br />
+Деаноны, находящиеся в свободном доступе у всех членов команды <br />
+Общие ГМ чаты: флудилище, срам, блуд в целом ничего интересного <br />
+Рецензенты: основной, записи, помощь, согласования и арбитраж <br />
+Экономика: тут можно отследить все действия, которые происходили с POI, начиная с 29/08/2022 <br />
+<br />
+И самое интересное: <br />
+<br />
+Мастера: записи, основной, пересмотр вердиктов, менестрельская мастерка, а также список менестрелей <br />
+Модераторы: основной и записи<br />
+<br />
+Даже не вижу смысла пояснять, что можно найти в двух вышеописанных категориях. <br />
+
+# Сайт:
+В данный архив мы не стали включать выгрузку с сайта даркмуна, тем более она все еще доступна в предыдущей версии этого пака https://github.com/rofler2008/gavno <br />
 
 # УДАЧНОГО ПРОСМОТРА!
